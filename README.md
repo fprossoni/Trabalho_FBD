@@ -5,6 +5,8 @@ O projeto de Sistema de Informação que utilizará um Sistema de Gerência de B
 
 Etapa 1: Projeto Conceitual da Base de Dados
 
-Diagrama Entidade Relacionamento (DER) # pendente
-Dicionário de Dados (DD) # pendente
-Descrição do UdD # finalizado?
+Diagrama Entidade Relacionamento (DER) # finalizado
+
+Dicionário de Dados (DD) # finalizado
+
+Descrição do UdD # finalizado
